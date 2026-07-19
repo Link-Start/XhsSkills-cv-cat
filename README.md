@@ -47,12 +47,13 @@ python skills/xhs-apis/scripts/xhs_api_tool.py list
 
 ## 📈 Star 趋势
 
+
 <a href="https://www.star-history.com/#cv-cat/XhsSkills&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=cv-cat/XhsSkills&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=cv-cat/XhsSkills&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=cv-cat/XhsSkills&type=Date" />
-  </picture>
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=cv-cat/XhsSkills&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=cv-cat/XhsSkills&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=cv-cat/XhsSkills&type=Date" />
+ </picture>
 </a>
 
 ---
